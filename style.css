@@ -63,6 +63,7 @@ text-align: center;
     padding: 10px;
     border-radius: 5px;
     text-align:center;
+    
     }
 
 a {color: white;
@@ -71,3 +72,6 @@ a {color: white;
     font-weight: bold;
     font-family: 'Nunito', sans-serif;
 }
+
+.facebook:hover {background-color: #2b406e;}
+.twitter:hover {background-color: #0b7bc1;}
